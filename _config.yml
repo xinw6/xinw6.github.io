@@ -11,9 +11,9 @@ title                    : "Xin Wei"
 title_separator          : "-"
 name                     : &name "Xin Wei"
 description              : &description "PhD student in Old Dominion University"
-url                      : https://xinw6.github.io/ # the base hostname & protocol for your site e.g. ""
+url                      : https://xinw6.github.io # the base hostname & protocol for your site e.g. ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xinw6/xinw6.github.io"
+repository               : "xinw6.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Xin Wei"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
