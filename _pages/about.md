@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is the homepage of Xin Wei. I am a Ph.D. student in Old Dominion University. My advisor is Dr.Jian Wu. My research interests include applied machine learning, big scholarly big data, natural language programming.
+This is the homepage of Xin Wei. I am a Ph.D. student in Old Dominion University. My advisor is Dr.Jian Wu. My research interests include applied machine learning, big scholarly big data, natural language processing.
 
 
 
