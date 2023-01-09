@@ -7,4 +7,6 @@ images, these drawings are usually made using black strokes with little color in
 to annotate benchmark patent figure datasets. We compared two state-of-the-art named entity recognition (NER) models and found that with a limited number of annotated samples, the BiLSTM-CRF model outperforms the Transformer model by a significant margin, achieving an overall F1=96.60%. We further conducted a data efficiency study by varying the number of training samples and found that BiLSTM consistently beats the transformer model on our task. The proposed model is used to annotate a benchmark patent figure dataset.
 date: 2022-06-20
 venue: 'Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries'
-
+paperurl: ''
+citation: 'Pengzhan Zhou, Xin Wei, Cong Wang, Yuanyuan Yang. &quot; Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy.&quot; <i>International Joint Conferences on Artificial Intelligence (IJCAI)</i>, 2019.'
+---
