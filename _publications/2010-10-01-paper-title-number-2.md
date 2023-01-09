@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 2"
+title: "k-Level Truthful Incentivizing Mechanism and Generalized k-MAB Problem"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/tc21
+excerpt: Multi-armed bandits problem has been widely utilized in economy-related areas. Incentives are explored in the sharing economy to inspire users for better resource allocation. Previous works build a budget-feasible incentive mechanism to learn users’ cost distribution. However, they only consider a special case that all tasks are considered as the same. The general problem asks for finding a solution when the cost for different tasks varies. In this paper, we investigate this problem by considering a system with k levels of difficulty. We present two incentivizing strategies for offline and online implementation, and formally derive the ratio of utility between them in different scenarios. We propose a regret-minimizing mechanism to decide incentives by dynamically adjusting budget assignment and learning from users’ cost distributions. We further extend the problem to a more generalized k-MAB problem by removing the contextual information of difficulties. CUE-UCB algorithm is proposed to address the online advertisement problem for multi-platforms. Our experiment demonstrates utility improvement about 7 times and time saving of 54% to meet a utility objective compared to the previous works in sharing economy, and up to 175% increment of utility for online advertising.
+date: 2021-09-01
+venue: 'IEEE Transactions on Computers (TC)'
+paperurl: ''
+citation: 'Pengzhan Zhou, Xin Wei, Cong Wang, Yuanyuan Yang. &quot; k-Level Truthful Incentivizing Mechanism and Generalized k-MAB Problem.&quot; <i>IEEE Transactions on Computers (TC)</i>, 2021.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+Multi-armed bandits problem has been widely utilized in economy-related areas. Incentives are explored in the sharing economy to inspire users for better resource allocation. Previous works build a budget-feasible incentive mechanism to learn users’ cost distribution. However, they only consider a special case that all tasks are considered as the same. The general problem asks for finding a solution when the cost for different tasks varies. In this paper, we investigate this problem by considering a system with k levels of difficulty. We present two incentivizing strategies for offline and online implementation, and formally derive the ratio of utility between them in different scenarios. We propose a regret-minimizing mechanism to decide incentives by dynamically adjusting budget assignment and learning from users’ cost distributions. We further extend the problem to a more generalized k-MAB problem by removing the contextual information of difficulties. CUE-UCB algorithm is proposed to address the online advertisement problem for multi-platforms. Our experiment demonstrates utility improvement about 7 times and time saving of 54% to meet a utility objective compared to the previous works in sharing economy, and up to 175% increment of utility for online advertising.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://github.com/colinzpz/colinzpz.github.io/blob/master/files/tc21.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Pengzhan Zhou, Xin Wei, Cong Wang, Yuanyuan Yang. "k-Level Truthful Incentivizing Mechanism and Generalized k-MAB Problem." <i>IEEE Transactions on Computers (TC)</i>, 2021.
