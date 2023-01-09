@@ -6,5 +6,5 @@ excerpt: Technical drawings used for illustrating designs are ubiquitous in pate
 date: 2022-06-20
 venue: 'Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries'
 paperurl: ''
-citation: 'Pengzhan Zhou, Xin Wei, Cong Wang, Yuanyuan Yang. &quot; Explore Truthful Incentives for Tasks with Heterogenous Levels of Difficulty in the Sharing Economy.&quot; <i>International Joint Conferences on Artificial Intelligence (IJCAI)</i>, 2019.'
+citation: 'Xin Wei, Jian Wu, Kehinde Ajayi, Diane Oyen. &quot; Visual descriptor extraction from patent figure captions: a case study of data efficiency between BiLSTM and transformer.&quot; <i>Proceedings of the 22nd ACM/IEEE Joint Conference on Digital Libraries</i>, 2022.'
 ---
